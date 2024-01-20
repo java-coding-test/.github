@@ -8,10 +8,12 @@
   <tr align = "center">
     <td><a href="https://github.com/coringcoring"><img src="https://avatars.githubusercontent.com/u/65723420?v=4" width=200></a></td>
     <td><a href="https://github.com/osjkate"><img src="https://avatars.githubusercontent.com/u/98140863?v=4" width=200></a></td>
+    <td><a href="https://github.com/isuHan"><img src="https://avatars.githubusercontent.com/u/116141262?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/coringcoring">김진영</a></td>
     <td><a href = "https://github.com/osjkate">오수진</a></td>
+    <td><a href = "https://github.com/isuHan">한지수</a></td>
   </tr>
 </table>
 
