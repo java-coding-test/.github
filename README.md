@@ -33,7 +33,7 @@
   <tr>
     <td>week1</td>
     <td>시간복잡도,정렬</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week2</td>
