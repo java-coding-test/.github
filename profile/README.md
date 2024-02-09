@@ -44,7 +44,7 @@
   <tr>
     <td>week2</td>
     <td>스택,큐,덱</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week3</td>
