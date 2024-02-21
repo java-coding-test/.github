@@ -49,7 +49,7 @@
   <tr>
     <td>week3</td>
     <td>이분탐색, 분할정복</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week4</td>
@@ -80,5 +80,21 @@
     <td>week9</td>
     <td>Union Find, MST</td>
      <td></td>
+  </tr>
+</table>
+
+## 📖Penalty Lists
+<table>
+  <tr>
+    <td>주차</td>
+    <td>이름</td>
+    <td>금액</td>
+    <td>사유</td>
+  </tr>
+  <tr>
+    <td>week3</td>
+    <td>김진영</td>
+    <td>2000원</td>
+    <td>백준 과제 2문제 미제출</td>
   </tr>
 </table>
