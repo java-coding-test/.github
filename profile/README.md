@@ -55,30 +55,35 @@
   <tr>
     <td>week4</td>
     <td>완전탐색, 백트래킹</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week5</td>
-    <td>그리디 알고리즘</td>
+    <td>DFS,BFS</td>
     <td></td>
   </tr>
   <tr>
     <td>week6</td>
-    <td>DP</td>
+    <td>그리디 알고리즘</td>
     <td></td>
   </tr>
   <tr>
     <td>week7</td>
+    <td>DP</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>week8</td>
     <td>그래프, 트리</td>
     <td></td>
   </tr>
    <tr>
-    <td>week8</td>
+    <td>week9</td>
     <td>최단경로, 우선순위 </td>
     <td></td>
   </tr>
    <tr>
-    <td>week9</td>
+    <td>week10</td>
     <td>Union Find, MST</td>
      <td></td>
   </tr>
