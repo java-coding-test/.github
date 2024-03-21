@@ -60,7 +60,7 @@
   <tr>
     <td>week5</td>
     <td>DFS,BFS</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week6</td>
