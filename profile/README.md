@@ -65,7 +65,7 @@
   <tr>
     <td>week6</td>
     <td>그리디 알고리즘</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week7</td>
