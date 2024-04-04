@@ -70,7 +70,7 @@
   <tr>
     <td>week7</td>
     <td>DP</td>
-    <td></td>
+    <td>✅</td>
   </tr>
   <tr>
     <td>week8</td>
