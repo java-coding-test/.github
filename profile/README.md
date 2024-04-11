@@ -75,7 +75,7 @@
   <tr>
     <td>week8</td>
     <td>그래프, 트리</td>
-    <td></td>
+    <td>✅</td>
   </tr>
    <tr>
     <td>week9</td>
@@ -129,6 +129,12 @@
   </tr>
   <tr>
     <td>week3-3</td>
+    <td>한지수</td>
+    <td>1000원</td>
+    <td>백준 과제 1문제 미제출</td>
+  </tr>
+  <tr>
+    <td>week8</td>
     <td>한지수</td>
     <td>1000원</td>
     <td>백준 과제 1문제 미제출</td>
