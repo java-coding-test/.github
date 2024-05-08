@@ -80,7 +80,7 @@
    <tr>
     <td>week9</td>
     <td>최단경로, 우선순위 </td>
-    <td></td>
+    <td>✅</td>
   </tr>
    <tr>
     <td>week10</td>
@@ -138,5 +138,11 @@
     <td>한지수</td>
     <td>1000원</td>
     <td>백준 과제 1문제 미제출</td>
+  </tr>
+  <tr>
+    <td>week9</td>
+    <td>오수진</td>
+    <td>3000원</td>
+    <td>백준 과제 미흡</td>
   </tr>
 </table>
