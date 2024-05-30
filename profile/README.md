@@ -85,7 +85,7 @@
    <tr>
     <td>week10</td>
     <td>Union Find, MST</td>
-     <td></td>
+     <td>✅</td>
   </tr>
 </table>
 
