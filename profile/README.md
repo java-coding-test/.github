@@ -1,6 +1,6 @@
 <div align="center">
-<h1>🖥️JAVA Coding Test Study⌨️</h1>
-<b>자바(JAVA) 언어 코딩테스트 대비를 위한 스터디입니다.</b><br>
+<h1>🖥️JACOS⌨️</h1>
+<b>자바(JAVA) 언어 코딩테스트 & OS(운영체제) 스터디</b><br>
 </div>
 
 ## 📖Members
@@ -18,7 +18,7 @@
 </table>
 
 ## 📖Rules
-* 매주 1회 대면(혹은 비대면) 스터디: **매주 목요일 오후 4시 30분**
+* 매주 1회 대면(혹은 비대면) 스터디: **매주 금요일 오후 3시**
   * 장소: 학교 도서관 스터디룸 or 인근 카페
   * 당일날 **랜덤**으로 **각 문제**마다 코드 리뷰 발표자를 정함
 * 과제 미제출 or 스터디 결석 시 벌금
@@ -27,158 +27,73 @@
   * 사전연락 없이 미제출/결석 시 벌금
       * 결석: 4000원
       * 연락 늦음: 2000원
-      * 과제 미제출: 5000원
-      * 과제 미흡: 문제 1개당 1000원 
+      * 백준 과제 미제출: 5000원
+      * 백준 과제 미흡: 문제 1개당 1000원
+      * OS 강의 미완료: 4000원
+      * OS 정리 미흡: 1500원 
   
-## 📖Curriculum 
+## 📖 OS Curriculum 
 <table>
   <tr>
-    <td>주차</td>
+    <td>일자</td>
     <td>내용</td>
     <td>완료여부</td>
   </tr>
   <tr>
-    <td>week1</td>
-    <td>시간복잡도,정렬</td>
+    <td>24.09.13</td>
+    <td>OS CHAP 01,02</td>
     <td>✅</td>
   </tr>
   <tr>
-    <td>week2</td>
-    <td>스택,큐,덱</td>
+    <td>24.09.20</td>
+    <td>OS CHAP 03</td>
+    <td></td>
+  </tr>
+</table>
+
+## 📖 CodingTest Curriculum 
+<table>
+  <tr>
+    <td>일자</td>
+    <td>내용</td>
+    <td>완료여부</td>
+  </tr>
+  <tr>
+    <td>24.09.13</td>
+    <td>백준 복습(다익스트라, 플로이드-와샬, 벨만포드, BFS)</td>
     <td>✅</td>
   </tr>
   <tr>
-    <td>week3</td>
-    <td>이분탐색, 분할정복</td>
-    <td>✅</td>
-  </tr>
-  <tr>
-    <td>week4</td>
-    <td>완전탐색, 백트래킹</td>
-    <td>✅</td>
-  </tr>
-  <tr>
-    <td>week5</td>
-    <td>DFS,BFS</td>
-    <td>✅</td>
-  </tr>
-  <tr>
-    <td>week6</td>
-    <td>그리디 알고리즘</td>
-    <td>✅</td>
-  </tr>
-  <tr>
-    <td>week7</td>
-    <td>DP</td>
-    <td>✅</td>
-  </tr>
-  <tr>
-    <td>week8</td>
-    <td>그래프, 트리</td>
-    <td>✅</td>
-  </tr>
-   <tr>
-    <td>week9</td>
-    <td>최단경로, 우선순위 </td>
-    <td>✅</td>
-  </tr>
-   <tr>
-    <td>week10</td>
-    <td>Union Find, MST</td>
-     <td>✅</td>
+    <td>24.09.20</td>
+    <td>백준 복습(백트래킹, 최단경로)</td>
+    <td></td>
   </tr>
 </table>
 
 ## 📖Penalty Lists
 <table>
   <tr>
-    <td>주차</td>
+    <td>일자</td>
     <td>이름</td>
     <td>금액</td>
     <td>사유</td>
   </tr>
-<!--   <tr>
-    <td>week3</td>
+  <tr>
+    <td>24.09.13</td>
     <td>김진영</td>
-    <td>2000원</td>
-    <td>백준 과제 2문제 미제출</td>
+    <td>1500원</td>
+    <td>OS 정리 미흡</td>
   </tr>
   <tr>
-    <td>week3-2</td>
-    <td>김진영</td>
-    <td>5000원</td>
-    <td>백준 과제 5문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week3-2</td>
-    <td>한지수</td>
-    <td>2000원</td>
-    <td>백준 과제 2문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week3-2</td>
+    <td>24.09.13</td>
     <td>오수진</td>
-    <td>4000원</td>
-    <td>백준 과제 4문제 미제출</td>
+    <td>1500원</td>
+    <td>OS 정리 미흡</td>
   </tr>
   <tr>
-    <td>week3-3</td>
-    <td>오수진</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week3-3</td>
+    <td>24.09.13</td>
     <td>한지수</td>
     <td>1000원</td>
     <td>백준 과제 1문제 미제출</td>
   </tr>
-  <tr>
-    <td>week8</td>
-    <td>한지수</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week11</td>
-    <td>오수진</td>
-    <td>3000원</td>
-    <td>백준 과제 미흡</td>
-  </tr>
-  <tr>
-    <td>week12</td>
-    <td>오수진</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week12</td>
-    <td>한지수</td>
-    <td>2000원</td>
-    <td>백준 과제 2문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week13</td>
-    <td>오수진</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week19</td>
-    <td>김진영</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week23</td>
-    <td>김진영</td>
-    <td>1000원</td>
-    <td>백준 과제 1문제 미제출</td>
-  </tr>
-  <tr>
-    <td>week23</td>
-    <td>오수진</td>
-    <td>2000원</td>
-    <td>백준 과제 2문제 미제출</td>
-  </tr> -->
 </table>
