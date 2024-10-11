@@ -1,6 +1,6 @@
 <div align="center">
 <h1>🖥️JACOS⌨️</h1>
-<b>자바(JAVA) 언어 코딩테스트 & OS(운영체제) 스터디</b><br>
+<b>자바(JAVA) 언어 코딩테스트 & OS(운영체제) 스터디 & AWS SAA 스터디</b><br>
 </div>
 
 ## 📖Members
