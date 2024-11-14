@@ -102,6 +102,11 @@
     <td>백준 복습(구현, 이분탐색, BFS)</td>
     <td>✅</td>
   </tr>
+  </tr>
+     <td>24.11.14</td>
+    <td>백준 복습(시뮬레이션, 이분탐색, 구현)</td>
+    <td>✅</td>
+  </tr>
 </table>
 
 ## 📖Penalty Lists
