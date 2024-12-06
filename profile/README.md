@@ -117,6 +117,11 @@
     <td>위상정렬, 백준 복습</td>
     <td>✅</td>
   </tr>
+  </tr>
+     <td>24.12.06</td>
+    <td>DP, 시뮬레이션 복습</td>
+    <td>✅</td>
+  </tr>
 </table>
 
 ## 📖Penalty Lists
