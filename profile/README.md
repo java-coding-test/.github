@@ -122,6 +122,11 @@
     <td>DP, 시뮬레이션 복습</td>
     <td>✅</td>
   </tr>
+  </tr>
+     <td>24.12.12</td>
+    <td>DP 복습</td>
+    <td>✅</td>
+  </tr>
 </table>
 
 ## 📖Penalty Lists
